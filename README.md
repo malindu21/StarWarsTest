@@ -3,7 +3,7 @@
 Sample Screenshots: 
 
 <img src="https://github.com/user-attachments/assets/03ef05e4-fe7f-4d1a-978e-48cac0d7c00a" width="200">
-<img src="https://github.com/user-attachments/assets/03ef05e4-fe7f-4d1a-978e-48cac0d7c00a" width="200">
+<img src="https://github.com/user-attachments/assets/70190f06-62d1-4531-90c8-e6755343c6bd" width="200">
 
 # IOS Developer Test
 
